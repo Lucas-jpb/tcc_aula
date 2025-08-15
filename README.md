@@ -1,2 +1,2 @@
 # tcc_aula
-SObre o meu tcc Sala do futuro
+Sobre o meu tcc Sala do futuro
